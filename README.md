@@ -1,1 +1,1 @@
-This repository will hold my thesis work. 
+This repository is going to hold my thesis work. 
